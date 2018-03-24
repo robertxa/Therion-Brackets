@@ -1,0 +1,11 @@
+{
+	"name": "brackets-therion",
+	"title": "Brackets Therion",
+	"homepage": "https://github.com/robertxa/brackets-therion",
+	"description": "Provides Therion syntax highlight for Brackets.",
+	"version": "0.0.1",
+	"author": "Xavier Robert",
+	"engines": {
+		"brackets": ">=0.24.0"
+	}
+}
