@@ -1,0 +1,5 @@
+Syntax highlighting for Therion files in Brackets - TO DO
+	- Ameliorate the definition of the different blocks to be able to retract them.
+	- Auto-completion
+	- Change the language recognition in Code metapost and Code tex-map
+	-
